@@ -1,0 +1,7 @@
+gradio
+anthropic
+PyMuPDF
+pdf2image
+pytesseract
+Pillow
+poppler-utils  # 👈 This is needed on HF Spaces
