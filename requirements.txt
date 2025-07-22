@@ -4,4 +4,3 @@ PyMuPDF
 pdf2image
 pytesseract
 Pillow
-poppler-utils
